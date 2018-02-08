@@ -1,0 +1,129 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+head, body{
+    background-color: #F6F6F6;
+}
+body {
+    margin: 0 7.5% 0 7.5%;
+}
+h1, h2, h3, h4, h5, h6 {
+    padding-bottom: 18px;
+    
+    font-weight: normal;
+    font-family: Georgia,Times,serif;
+    text-align: center;
+    color:darkred;
+}
+p, li, ol {
+    line-height: 1.6;
+    margin-bottom: 15px;
+    font-family: Georgia,Times,serif;
+    color: black;
+    font-size: 18px;
+}
+a {
+    word-wrap: break-word;
+    color: #0088ff;
+}
+button, input, select, textarea {
+  font-family : Georgia,Times,serif;
+  font-size   : 100%;
+}
+button#buttn {
+    background-color: #8e0404;
+}
+#buttn a{
+    color: #F6F6F6;
+}
+#civic img {
+    width: 100%;
+    height: auto;
+}
+#navbar a:hover {
+    
+    background-color: #000;
+    color: #fff;
+}
+nav {
+    font-size: 25px;
+    font-family: serif;
+    text-align: center;
+}
+#navbar {
+    padding: 10px 20px 10px 20px;
+}
+#navbar a {
+    background-color: #8e0404;
+    color: white;
+    margin: 8px 16px;
+    padding: 0.9px 2px 1px 2px;
+}
+
+.contactus span
+{
+    font-weight: bold;
+}
+
+.container p {
+    text-align: center;
+}
+container {
+    height: 50px;
+    width: 500px;
+}
+div.container {
+    text-align: center;
+}
+.container img{
+    
+    height:30%;
+    width: 30%;
+}
+footer {
+    background-color: #8e0404;
+}
+#foot {
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+
+#paypal {
+    text-align: center;
+    display: inline-block;
+    margin: 0 0 0 15%;
+}
+#donate {
+    text-align: center;   
+    display: inline-block;
+    margin: 0 0 0 35%;
+}
+#navbar .current {
+    background-color: #000;
+}
+
+.navigate #navbar {
+    background-color: #8e0404;
+}
+.headbanner img{
+    height: 130%;
+    width: 100%;
+}    
+div.TCMChome {
+    text-align: center;
+}
+.TCMChome img{
+    height: 30%;
+    width: 30%;
+}
+
+
+
+#contact {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    font-weight: 600;
+}
+
